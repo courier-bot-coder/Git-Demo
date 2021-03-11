@@ -1,8 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is a new line in the txt file 
 this is the secind line to the text file
 this is the third line
-this is a line we don't really want
-=======
-this is a new line in the txt file
->>>>>>> parent of c4db4c6... Second line to the demo
+
